@@ -1,4 +1,4 @@
-const urlPagina = "https://tuusuario.github.io/proyecto-biologia/";
+const urlPagina = "https://josueguevaragamarra0-png.github.io/Proyecto-de-Biologia-1/";
 
 new QRCode(document.getElementById("qrcode"), {
     text: urlPagina,
