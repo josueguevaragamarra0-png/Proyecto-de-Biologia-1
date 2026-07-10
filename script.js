@@ -1,9 +1,4 @@
-// ==============================
-// CÓDIGO QR
-// ==============================
-
-// Cambia esta URL cuando publiques tu página
-const urlPagina = window.location.href;
+const urlPagina = "https://tuusuario.github.io/proyecto-biologia/";
 
 new QRCode(document.getElementById("qrcode"), {
     text: urlPagina,
